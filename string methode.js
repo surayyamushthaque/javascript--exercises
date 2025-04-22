@@ -81,4 +81,15 @@
 
 
 // Remove all duplicate characters from a string
+//   let as="hello everyOne"
+//   let ab= as.split('')
+//   let ar=[]
+//   for(let i=0; i<ab.length ;i++){
+//     for(let j=i+1; j<ab.length; j++){
+//         if(ab[i]!==ab[j] && !ar.includes(ab[i])){
+//             ar.push(ab[i])
+//         }
+//     }
 
+
+//   }console.log(ar.join(''))

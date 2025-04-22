@@ -85,13 +85,15 @@
 
 
 
-const express= require('express')
-const app= express()
+// const express= require('express')
+// const app= express()
 
-app.use('/',(req,res,next)=>{
-console.log('helo')
-next()
-})
-app.listen(3000,()=>{
-    console.log('running')
-})
+// app.use('/',(req,res,next)=>{
+// console.log('helo')
+// next()
+// })
+// app.listen(3000,()=>{
+//     console.log('running')
+// })
+
+let 
